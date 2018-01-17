@@ -5,6 +5,11 @@ For completeness, the citations and brief descriptions of each paper can be foun
 
 ## Paper Citations and Descriptions
 
+S. Arora and S. Scherer, "Randomized algorithm for informative path planning with budget constraints," Robotics and Automation, 2017 IEEE International Conference on, IEEE, 2017.
+
+> TODO
+
+
 E. Ayvali, R. A. Srivatsan, L. Wang, R. Roy, N. Simaan, and H. Choset, "Using bayesian optimization to guide probing of a flexible environment for simultaneous registration and stiffness mapping," Robotics and Automation, 2016 IEEE International Conference on, IEEE, 2016.
 
 > TODO
@@ -61,6 +66,11 @@ S. Jain, S. Nuske, A. Chambers, L. Yoder, H. Cover, L. Chamberlain, S. Scherer, 
 
 
 I. Kostavelis and A. Gasteratos, “Semantic mapping for mobile robotics tasks: A survey,” Rob. Auton. Syst., vol. 66, 2015.
+
+> TODO
+
+
+X. Lan, and M. Schwager, "Rapdily exploring random cycles: persistent estimation for spatiotemporal fields with multiple sensing robots," IEEE Tranactions on Robotics, vol. 32, no. 5, pp. 1230-1244, 2016.
 
 > TODO
 
@@ -140,7 +150,7 @@ J. Vallvé and J. Andrade-Cetto, “Dense entropy decrease estimation for mobile
 > TODO
 
 
-J. Vallve and J. Andrade-Cetto, "Potential information fields for mobile robot exploration," Robotics and Autonomous Systems, vol. 69, pp. 68-79, 2015.
+J. Vallvé and J. Andrade-Cetto, "Potential information fields for mobile robot exploration," Robotics and Autonomous Systems, vol. 69, pp. 68-79, 2015.
 
 > TODO
 
