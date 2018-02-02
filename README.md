@@ -10,11 +10,6 @@ S. Arora and S. Scherer, "Randomized algorithm for informative path planning wit
 > Linking to [this information](http://frc.ri.cmu.edu/~sankalp/mavscout_system/), this ICRA paper presents the Randomized 
 Anytime Orienteering algorithm which is claimed to be a near-optimal solver for a best informative path in an environment. The agorithm leverages random and biased sampling, the TPS problem, and greedy search to make optimal path choices from a set of start, end, and intermediary nodes.
 
-E. Ayvali, R. A. Srivatsan, L. Wang, R. Roy, N. Simaan, and H. Choset, "Using bayesian optimization to guide probing of a flexible environment for simultaneous registration and stiffness mapping," Robotics and Automation, 2016 IEEE International Conference on, IEEE, 2016.
-
-> TODO
-
-
 H. Carillo, P. Dames, V. Kumar, and J. A. Castellanos, "Autonomous robotic exploration using occupancy grid maps and graph slam based on shannon and renyi entropy," Robotics and Automation, 2015 IEEE International Conference on, IEEE, 2015.
 
 > TODO
